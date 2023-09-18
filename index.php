@@ -21,17 +21,39 @@
 // $lname = "Newton";
 // // printf("His name is %s %s %s", $fname, $lname, $name);
 // printf("His %s Name is %s %s","Full",$fname, $lname);
-echo "Hello World";
-echo PHP_EOL;
-echo "We love php";
+// echo "Hello World";
+// echo PHP_EOL;
+// echo "We love php";
 
 
-$age = 25;
-$_username = "John";
-$myName123 = "Alice";
-$my_var="Example";
+// $age = 25;
+// $_username = "John";
+// $myName123 = "Alice";
+// $my_var="Example";
 
-echo $age.PHP_EOL;
-echo $_username.PHP_EOL;
-echo $myName123.PHP_EOL;
-echo $my_var.PHP_EOL;
+// echo $age.PHP_EOL;
+// echo $_username.PHP_EOL;
+// echo $myName123.PHP_EOL;
+// echo $my_var.PHP_EOL;
+// $globalVar = 100;
+// echo "Global variable outside function". $globalVar . PHP_EOL;
+
+
+// $globalVar= 100;
+// function myFunction(){
+//     $localVar = 50;
+//     global $globalVar;
+//     echo "Global Variable inside function: ".$globalVar . PHP_EOL;
+// }
+
+
+// myFunction();
+
+
+
+// define("PI", 3.122566544555);
+// echo PI;
+
+
+
+
