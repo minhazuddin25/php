@@ -16,9 +16,22 @@
 // echo "We\'re living on {$name}";
 
 // printf("We're living on %s",$name);
-$name= "Bangladesh";
-$fname = "Isaac";
-$lname = "Newton";
-// printf("His name is %s %s %s", $fname, $lname, $name);
-printf("His %s Name is %s %s","Full",$fname, $lname);
+// $name= "Bangladesh";
+// $fname = "Isaac";
+// $lname = "Newton";
+// // printf("His name is %s %s %s", $fname, $lname, $name);
+// printf("His %s Name is %s %s","Full",$fname, $lname);
+echo "Hello World";
+echo PHP_EOL;
+echo "We love php";
 
+
+$age = 25;
+$_username = "John";
+$myName123 = "Alice";
+$my_var="Example";
+
+echo $age.PHP_EOL;
+echo $_username.PHP_EOL;
+echo $myName123.PHP_EOL;
+echo $my_var.PHP_EOL;
